@@ -11,3 +11,9 @@ This project introduces a groundbreaking approach to information retrieval by tr
 📊 Parameter Efficiency - 70% reduction in trainable parameters without performance loss
 
 ![two_stage_reranking_diagram](https://github.com/user-attachments/assets/87cb60c2-4d6f-4cb4-b99b-fbfee31a584d)
+
+CPT Model 
+https://huggingface.co/neelbanodiya/gemmaCPT
+
+Our Synthetic Dataset 
+https://huggingface.co/datasets/neelbanodiya/sft_dataset
